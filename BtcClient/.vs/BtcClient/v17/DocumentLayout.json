@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\_Medor\\BtcClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\saveddata.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\saveddata.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\saveddata.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\saveddata.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\filtercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\filtercontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\btcpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:btcpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\btcpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:btcpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\models\\bitcoinrateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:models\\bitcoinrateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|d:\\projects\\_medor\\btcclient\\helpers\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:helpers\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\livedata.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\livedata.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|d:\\projects\\_medor\\btcclient\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\filtercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\filtercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\livedata.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\livedata.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\controls\\filtercontrol.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:controls\\filtercontrol.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|D:\\Projects\\_Medor\\BtcClient\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B49F46EA-0BED-4584-800B-5556F36BADEC}|BtcClient.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Helpers\\Conversion.cs",
+              "RelativeDocumentMoniker": "Helpers\\Conversion.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Helpers\\Conversion.cs",
+              "RelativeToolTip": "Helpers\\Conversion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:19:06.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-25T19:03:07.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LiveData.ascx.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\LiveData.ascx.cs",
+              "RelativeDocumentMoniker": "Controls\\LiveData.ascx.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\LiveData.ascx.cs",
+              "RelativeToolTip": "Controls\\LiveData.ascx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T16:04:52.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LiveData.ascx",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\LiveData.ascx",
+              "RelativeDocumentMoniker": "Controls\\LiveData.ascx",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\LiveData.ascx",
+              "RelativeToolTip": "Controls\\LiveData.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-11-25T16:04:50.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BitcoinRateResponse.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Models\\BitcoinRateResponse.cs",
+              "RelativeDocumentMoniker": "Models\\BitcoinRateResponse.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Models\\BitcoinRateResponse.cs",
+              "RelativeToolTip": "Models\\BitcoinRateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:46:07.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavedData.ascx.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\SavedData.ascx.cs",
+              "RelativeDocumentMoniker": "Controls\\SavedData.ascx.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\SavedData.ascx.cs",
+              "RelativeToolTip": "Controls\\SavedData.ascx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:30:55.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavedData.ascx",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\SavedData.ascx",
+              "RelativeDocumentMoniker": "Controls\\SavedData.ascx",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\SavedData.ascx",
+              "RelativeToolTip": "Controls\\SavedData.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-11-25T15:30:51.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BtcPage.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\BtcPage.aspx.cs",
+              "RelativeDocumentMoniker": "BtcPage.aspx.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\BtcPage.aspx.cs",
+              "RelativeToolTip": "BtcPage.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:28:38.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:24:56.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BtcPage.aspx",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\BtcPage.aspx",
+              "RelativeDocumentMoniker": "BtcPage.aspx",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\BtcPage.aspx",
+              "RelativeToolTip": "BtcPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-25T15:10:22.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-25T15:10:17.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterControl.ascx.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx.cs",
+              "RelativeDocumentMoniker": "Controls\\FilterControl.ascx.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx.cs",
+              "RelativeToolTip": "Controls\\FilterControl.ascx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:10:08.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterControl.ascx.designer.cs",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx.designer.cs",
+              "RelativeDocumentMoniker": "Controls\\FilterControl.ascx.designer.cs",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx.designer.cs",
+              "RelativeToolTip": "Controls\\FilterControl.ascx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:09:54.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterControl.ascx",
+              "DocumentMoniker": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx",
+              "RelativeDocumentMoniker": "Controls\\FilterControl.ascx",
+              "ToolTip": "D:\\Projects\\_Medor\\BtcClient\\Controls\\FilterControl.ascx",
+              "RelativeToolTip": "Controls\\FilterControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-11-25T15:09:17.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

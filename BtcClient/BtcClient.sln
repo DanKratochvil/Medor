@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtcClient", "BtcClient.csproj", "{B49F46EA-0BED-4584-800B-5556F36BADEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B49F46EA-0BED-4584-800B-5556F36BADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49F46EA-0BED-4584-800B-5556F36BADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49F46EA-0BED-4584-800B-5556F36BADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49F46EA-0BED-4584-800B-5556F36BADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F59F7A-35C5-43B0-9085-0CCC4B24FC13}
+	EndGlobalSection
+EndGlobal
